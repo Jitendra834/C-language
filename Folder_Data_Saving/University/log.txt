@@ -1,0 +1,18 @@
+=== University Merge Log ===
+
+✅ Creating University/abc.txt
+   ⚠ Missing: MCA/abc.txt
+   ⚠ Missing: BCA/abc.txt
+   ⚠ Missing: MBA/abc.txt
+✅ Creating University/xyz.txt
+   ⚠ Missing: MCA/xyz.txt
+   ⚠ Missing: BCA/xyz.txt
+   ⚠ Missing: MBA/xyz.txt
+✅ Creating University/conference.txt
+   ⚠ Missing: MCA/conference.txt
+   ⚠ Missing: BCA/conference.txt
+   ⚠ Missing: MBA/conference.txt
+
+Summary:
+   Files created: 3
+   Missing files: 9
